@@ -1,19 +1,19 @@
 # Title: StevenBlack/hosts extension ai-chat
 #
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
+# This hosts file is primarily based on my own research.
+# If you notice any mistakes or know of additional sites, feel free to contribute.
 #
-# Date: 17 August 2025 (UTC)
+# Date: 08 September 2025 (UTC)
 # The unified hosts file was not used while generating this file.
-# Extensions used to generate this file: aichatbots
-# Number of unique domains: 47
+# No official extensions were used in generating this file. An official extension for AI chatbots would be a great addition—let me know if one already exists.
+# Number of unique domains: 66
 #
 # Description:
 # This extension blocks AI chatbot platforms that are commonly used for
 # explicit/NSFW interactions, which often lack meaningful safeguards for minors.
 #
-# Fetch the latest version of this file: (URL will appear after merge)
-# Project home page: https://github.com/StevenBlack/hosts
+# 
+# Main Project home page: https://github.com/StevenBlack/hosts
 # Project releases: https://github.com/StevenBlack/hosts/releases
 #
 # ===============================================================
@@ -60,10 +60,39 @@
 0.0.0.0 poe.com
 0.0.0.0 replika.ai
 0.0.0.0 secretdesires.ai
-0.0.0.0 shedoesthecity.com
 0.0.0.0 spicychat.ai
 0.0.0.0 spicysparks.ai
 0.0.0.0 talkie-ai.com
+0.0.0.0 venus.chub.ai
+0.0.0.0 wsup.ai
+0.0.0.0 www.botify.ai
+0.0.0.0 www.spicychat.ai
+0.0.0.0 vmateai.com
+0.0.0.0 www.vmateai.com
+0.0.0.0 aichattings.com
+0.0.0.0 www.aichattings.com
+0.0.0.0 priveeai.com
+0.0.0.0 www.priveeai.com
+0.0.0.0 gohiai.com
+0.0.0.0 www.gohiai.com
+0.0.0.0 tipsy.chat
+0.0.0.0 www.tipsy.chat
+0.0.0.0 seaart.ai
+0.0.0.0 www.seaart.ai
+0.0.0.0 hammerai.com
+0.0.0.0 www.hammerai.com
+0.0.0.0 nastia.ai
+0.0.0.0 www.nastia.ai
+0.0.0.0 supafriends.com
+0.0.0.0 www.supafriends.com
+0.0.0.0 emochi.com
+0.0.0.0 www.emochi.com
+0.0.0.0 polybuzz.ai
+0.0.0.0 www.polybuzz.ai
+0.0.0.0 caveduck.io
+0.0.0.0 www.caveduck.io
+0.0.0.0 sakura.fm
+0.0.0.0 www.sakura.fm
 0.0.0.0 venus.chub.ai
 0.0.0.0 wsup.ai
 0.0.0.0 www.botify.ai
